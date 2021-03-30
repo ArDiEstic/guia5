@@ -1,0 +1,9 @@
+Datos Registrados
+-----------------
+Nombre y Apellido.....: Arian Espinoza
+Género................: Masculino
+Datos Registrados
+-----------------
+Nombre y Apellido.....: Arian  Espinoza
+Género................: Masculino
+Edad..................: Mayor de edad
